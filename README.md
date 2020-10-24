@@ -1,7 +1,7 @@
 # DVIC QR Code Generator
 
-Personal challenge to prototype very quickly small useful apps.
-Project carried out in 15 minutes with Vue.js (with Vue CLI).
+Personal challenge: prototype very quickly small useful app.
+Project carried out in 15 minutes with Vue.js and Qart.js.
 
 ## Demo
 - [HERE](https://qrcode.guillaumedouceron.com/)
