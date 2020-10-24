@@ -1,24 +1,14 @@
-# dvic_qrcode
+# DVIC QR Code Generator
 
-## Project setup
+Personal challenge to prototype very quickly small useful apps.
+Project carried out in 15 minutes with Vue.js (with Vue CLI).
+
+## Demo
+- [HERE](https://qrcode.guillaumedouceron.com/)
+
+## Launch project
+
 ```
 yarn install
-```
-
-### Compiles and hot-reloads for development
-```
 yarn serve
 ```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
